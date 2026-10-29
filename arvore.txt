@@ -1,0 +1,15 @@
+ESTOQUE-ELETRONICA/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── backend/
+│   ├── __init__.py
+│   └── app.py
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+└── notebooks/
+    └── rascunhos.ipynb
